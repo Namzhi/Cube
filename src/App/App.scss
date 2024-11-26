@@ -1,0 +1,17 @@
+.button__wrapper {
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+  width: 250px;
+  top: 20%;
+  left: calc(50% - 125px);
+  z-index: 1;
+}
+.btn {
+  width: 100px;
+}
+.button__plus {
+}
+
+.button__minus {
+}
