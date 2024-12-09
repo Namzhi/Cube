@@ -1,1 +1,1 @@
-Box доступен по [ссылке](cube-rouge.vercel.app).
+Box доступен по [ссылке](https://cube-rouge.vercel.app/).
