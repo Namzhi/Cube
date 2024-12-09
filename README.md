@@ -1,1 +1,1 @@
-Тестовое задание Box доступно по [ссылке](cube-rouge.vercel.app).
+Box доступен по [ссылке](cube-rouge.vercel.app).
